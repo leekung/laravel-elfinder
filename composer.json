@@ -1,12 +1,12 @@
 {
-    "name": "barryvdh/laravel-elfinder",
+    "name": "leekung/laravel-elfinder",
     "keywords": ["laravel", "elfinder", "tinymce", "filebrowser"],
     "description": "A Laravel Package to integrate elFinder 2",
     "license": "MIT",
     "authors": [
         {
-            "name": "Barry vd. Heuvel",
-            "email": "barryvdh@gmail.com"
+            "name": "Leekung",
+            "email": "grmark@gmail.com"
         }
     ],
     "require": {
